@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "express-routing-framework",
   "version": "1.0.0",
   "description": "express routing framework",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "jeff-gebhardt",
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.5.0",
