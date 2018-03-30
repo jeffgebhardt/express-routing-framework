@@ -1,12 +1,12 @@
-#Express Routing Framework#
+#Express Routing Framework
 
 
-###Summary###
+###Summary
 
 A basic express HTTP routing framework.
 
 
-###Instructions###
+###Instructions
 
 From the root directory run the following command in your terminal:
 
@@ -26,7 +26,7 @@ GET: `http localhost:3000/api/directory/test`
 DELETE: `http DELETE localhost:3000/api/directory/test`
 
 
-###Test###
+###Test
 
 To run all tests type the following command from the root directory:
 
